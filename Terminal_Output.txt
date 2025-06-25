@@ -1,0 +1,92 @@
+(zordie) D:\Zordie AI\ResumeIntelligenceSystem>python run_analysis.py --resume samples/FSD_resume.pdf --job-description samples/FSD_JD.txt --output-dir ./output
+
+Analyzing resume: samples/FSD_resume.pdf
+Against job description: samples/FSD_JD.txt
+Output directory: ./output
+
+2025-06-26 00:13:26,763 - resume_pipeline - INFO - Initializing Resume Intelligence System components...
+2025-06-26 00:13:28,569 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-06-26 00:13:28,569 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-06-26 00:13:38,290 - resume_pipeline - INFO - All components initialized successfully
+2025-06-26 00:13:38,292 - resume_pipeline - INFO - Starting 4-step analysis pipeline for samples/FSD_resume.pdf
+2025-06-26 00:13:38,456 - resume_pipeline - INFO - STEP 1: INITIAL SCREENING
+2025-06-26 00:13:38,456 - resume_pipeline - INFO - 1.1: Document parsing completed
+2025-06-26 00:13:38,456 - resume_pipeline - INFO - 1.2: Detecting resume sections...
+Found 7 potential section headers:
+  - 'Education' at position 61, pattern: 'Education'
+  - 'Work Experience' at position 206, pattern: 'Experience'
+  - 'Projects' at position 650, pattern: 'Projects'
+  - 'Awards' at position 2758, pattern: 'Achievements'
+  - 'Skills' at position 3083, pattern: 'Technical Skills'
+  - 'Certifications' at position 3495, pattern: 'Certifications'
+  - 'Interests' at position 3640, pattern: 'Extracurricular Activities'
+Extracted section: 'Education' with 134 characters
+Content preview: 'Indian Institute of Technology,IIT, (ISM), Dhanbad...'
+Extracted section: 'Work Experience' with 432 characters
+Content preview: 'SustainMall (Sustainable E-commerce website)
+Jun 2...'
+Extracted section: 'Projects' with 2098 characters
+Content preview: 'Yelpcamp Application | Express.JS, Node.js, Bootst...'
+Extracted section: 'Awards' with 311 characters
+Content preview: '• Qualified for Level 2 of Flipkart Grid 5.0 Softw...'
+Extracted section: 'Skills' with 394 characters
+Content preview: 'Languages : Python, C++, C, Java, HTML 5, CSS 3, J...'
+Extracted section: 'Certifications' with 129 characters
+Content preview: '• Web development BootCamp course by Colsteele on ...'
+Extracted section: 'Interests' with 467 characters
+Content preview: '• Organizing team member of the Public Relations t...'
+Extracted 7 sections:
+  - 'Education' with 134 characters: 'Indian Institute of Technology,IIT, (ISM), Dhanbad...'
+  - 'Work Experience' with 432 characters: 'SustainMall (Sustainable E-commerce website) Jun 2...'
+  - 'Projects' with 2098 characters: 'Yelpcamp Application | Express.JS, Node.js, Bootst...'
+  - 'Awards' with 311 characters: '• Qualified for Level 2 of Flipkart Grid 5.0 Softw...'
+  - 'Skills' with 394 characters: 'Languages : Python, C++, C, Java, HTML 5, CSS 3, J...'
+  - 'Certifications' with 129 characters: '• Web development BootCamp course by Colsteele on ...'
+  - 'Interests' with 467 characters: '• Organizing team member of the Public Relations t...'
+2025-06-26 00:13:38,464 - resume_pipeline - INFO - 1.3: Validating projects...
+2025-06-26 00:13:38,598 - resume_pipeline - INFO - 1.4: Analyzing skill alignment...
+Batches: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████| 5/5 [00:00<00:00,  8.98it/s]
+Batches: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████| 2/2 [00:00<00:00,  5.58it/s] 
+2025-06-26 00:13:39,945 - resume_pipeline - INFO - 1.5: Generating initial visualizations...
+2025-06-26 00:13:42,728 - resume_pipeline - INFO - Skill alignment score: 79.28813725709915
+2025-06-26 00:13:42,729 - resume_pipeline - INFO - STEP 2: IN-DEPTH ANALYSIS
+2025-06-26 00:13:42,729 - resume_pipeline - INFO - 2.1: Analyzing formatting...
+2025-06-26 00:13:42,749 - resume_pipeline - INFO - 2.2: Analyzing external links...
+2025-06-26 00:13:42,749 - resume_intelligence.link_extraction_system - INFO - Starting resume link extraction and analysis process
+2025-06-26 00:13:42,749 - resume_intelligence.link_crawler - INFO - Starting link discovery in resume text of length 4135
+2025-06-26 00:13:42,751 - resume_intelligence.link_crawler - INFO - Extracted 5 basic links from resume text
+2025-06-26 00:13:42,751 - resume_intelligence.link_crawler - INFO - Combined total of 5 unique links
+2025-06-26 00:14:25,768 - resume_intelligence.link_crawler - INFO - Link discovery complete. Found 156 links across 4 platforms
+2025-06-26 00:14:25,768 - resume_intelligence.link_extraction_system - INFO - Extracted 156 links from resume
+2025-06-26 00:14:26,187 - resume_intelligence.link_extraction_system - INFO - Completed resume link extraction and analysis process
+2025-06-26 00:14:26,187 - resume_pipeline - INFO - Link extraction completed. Found 17 links.
+2025-06-26 00:14:26,187 - resume_pipeline - INFO - 2.3: Analyzing trustworthiness...
+2025-06-26 00:14:26,197 - resume_pipeline - INFO - 2.4: Verifying credibility...
+2025-06-26 00:14:37,273 - resume_pipeline - INFO - STEP 3: CALCULATING OVERALL QUALITY SCORE
+2025-06-26 00:14:37,757 - resume_pipeline - INFO - STEP 4: GENERATING COMPREHENSIVE REPORT
+2025-06-26 00:14:39,569 - resume_pipeline - INFO - 4-step analysis pipeline completed successfully
+
+Analysis Complete
+================
+
+Overall Score: 54.23%
+Grade: D
+
+Component Scores:
+  Skill Alignment: 79.29%
+  Project Validation: 27.47%
+  Formatting: 8.14%
+  Trustworthiness: 93.78%
+  Credibility: 27.50%
+  Online Presence: 60.00%
+
+Output Files:
+  Comprehensive Report: output\comprehensive_report.html
+  Summary: output\analysis_summary.txt
+  Quality Report: output\comprehensive_quality_report.json
+  Skill Alignment: output\skill_alignment.json
+  Project Validation: output\project_validation.json
+  Formatting: output\formatting.json
+  Trustworthiness: output\trustworthiness.json
+  Credibility: output\credibility.json
+  Link Extraction: output\link_extraction.json

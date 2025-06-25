@@ -1,0 +1,30 @@
+{
+  "trust_score": 93.78378378378379,
+  "max_score": 100,
+  "analysis_details": {
+    "text_duplication": {
+      "total_sentences": 49,
+      "duplicate_sentences": 1,
+      "duplication_ratio": 0.02702702702702703,
+      "common_phrases": [],
+      "suspicious_patterns": [
+        "Highly repetitive bullet formatting"
+      ]
+    },
+    "skill_evidence_mismatch": {
+      "analysis_possible": false
+    },
+    "inflation_detection": {
+      "inflation_keywords": [],
+      "superlatives_count": 3,
+      "unrealistic_claims": [],
+      "inflation_density": 0.005405405405405406,
+      "severity_level": "low"
+    },
+    "external_verification": {}
+  },
+  "flags": [],
+  "recommendations": [
+    "Resume demonstrates good trustworthiness - maintain factual, evidence-based content"
+  ]
+}

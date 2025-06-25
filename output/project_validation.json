@@ -1,0 +1,83 @@
+{
+  "project_scores": {
+    "• Implemented user authentication using Passport.js, ensuring secure access and reducing unauthorized access": 0.40177391775022586,
+    "• Optimized image storage with AWS S3, reducing load times by 1.5 seconds and improving upload efficiency by 50%": 0.0,
+    "• Built a blog creation platform using Gemini API, allowing users to generate, edit, and save content efficiently,": 0.16000000000000003,
+    "• Implemented robust authentication and access control using Clerk, ensuring 100% data privacy compliance and": 0.4053316722445343,
+    "• Developed a user-friendly and interactive interface that provides real-time weather updates for 5,000+ cities,": 0.40625129878921346
+  },
+  "flagged_projects": [
+    "• Optimized image storage with AWS S3, reducing load times by 1.5 seconds and improving upload efficiency by 50% (Unrelated to claimed skills)",
+    "• Built a blog creation platform using Gemini API, allowing users to generate, edit, and save content efficiently, (Unrelated to claimed skills)"
+  ],
+  "projects": {
+    "• Implemented user authentication using Passport.js, ensuring secure access and reducing unauthorized access": "attempts by 98%. Ensured secure password storage using bcrypt for hashing and salting credentials\n• Integrated Mapbox for interactive maps, enhancing navigation and user engagement, leading to a 40% increase in\nsession duration. Utilized GeoJSON data to render map markers with popups displaying campground details.",
+    "• Optimized image storage with AWS S3, reducing load times by 1.5 seconds and improving upload efficiency by 50%": "AI Blog Application | Next.js, Appwrite, Tailwind CSS\n| PROJECT HERE\nOct 2024",
+    "• Built a blog creation platform using Gemini API, allowing users to generate, edit, and save content efficiently,": "reducing content creation time by 40%. Customizable writing styles (Technical, Formal, Casual) for user flexibility.",
+    "• Implemented robust authentication and access control using Clerk, ensuring 100% data privacy compliance and": "reducing login-related issues by 30%, leading to a smoother user experience. .\n• Leveraged AI-powered tools for keyword optimization, SEO analysis, and content enhancement, significantly\nimproving blog visibility and boosting organic traffic by up to 3x, leading to better audience engagement. .\nWeather Application | HTML, CSS, JavaScript | PROJECT HERE\nOct 2024",
+    "• Developed a user-friendly and interactive interface that provides real-time weather updates for 5,000+ cities,": "ensuring lightning-fast response times of under 2 seconds for a smooth and seamless user experience across all devices.\n• Integrated OpenWeather API to provide real-time temperature, wind speed, and humidity data with 99.9%\naccuracy, enhancing data reliability and improving user engagement by 25% through a seamless experience."
+  },
+  "skills": [
+    "Languages : Python",
+    "C++",
+    "C",
+    "Java",
+    "HTML 5",
+    "CSS 3",
+    "Javascript",
+    "Matlab",
+    "Octave",
+    "Go",
+    "Golang",
+    "Frameworks : Node.js",
+    "React.js (NextJs)",
+    "ExpressJs",
+    "FastAPI",
+    "RestAPI",
+    "Pandas",
+    "Tailwind",
+    "Numpy",
+    "PassportJs",
+    "Databases and Tools : MySQL",
+    "MongoDB",
+    "Appwrite",
+    "AWS(S3)",
+    "Github",
+    "Postman",
+    "Vercel",
+    "Postgress",
+    "Cloudinary.",
+    "Computer Science: Data Structures & Algorithms",
+    "Graph Theory",
+    "Object Oriented Programming",
+    "DBMS"
+  ],
+  "validation_metrics": {
+    "• Implemented user authentication using Passport.js, ensuring secure access and reducing unauthorized access": {
+      "skill_alignment": 0.002956529583709752,
+      "technical_depth": 1.0,
+      "quantifiable_results": 0.3333333333333333
+    },
+    "• Optimized image storage with AWS S3, reducing load times by 1.5 seconds and improving upload efficiency by 50%": {
+      "skill_alignment": 0.0,
+      "technical_depth": 0.0,
+      "quantifiable_results": 0.3333333333333333
+    },
+    "• Built a blog creation platform using Gemini API, allowing users to generate, edit, and save content efficiently,": {
+      "skill_alignment": 0.0,
+      "technical_depth": 0.4,
+      "quantifiable_results": 0.0
+    },
+    "• Implemented robust authentication and access control using Clerk, ensuring 100% data privacy compliance and": {
+      "skill_alignment": 0.008886120407557135,
+      "technical_depth": 1.0,
+      "quantifiable_results": 0.3333333333333333
+    },
+    "• Developed a user-friendly and interactive interface that provides real-time weather updates for 5,000+ cities,": {
+      "skill_alignment": 0.010418831315355715,
+      "technical_depth": 1.0,
+      "quantifiable_results": 1.0
+    }
+  },
+  "overall_score": 27.467137775679472
+}

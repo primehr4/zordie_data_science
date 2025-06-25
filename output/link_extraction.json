@@ -1,0 +1,493 @@
+{
+  "links": {
+    "total_links_discovered": 156,
+    "platforms_found": [
+      "personal_website",
+      "github",
+      "linkedin",
+      "other"
+    ],
+    "link_profiles": {
+      "personal_website": [
+        {
+          "url": "https://aiblog-app-taupe.vercel.app/",
+          "domain": "aiblog-app-taupe.vercel.app",
+          "path": "/",
+          "username": "aiblog-app-taupe.vercel",
+          "link_type": "website",
+          "platform": "personal_website"
+        },
+        {
+          "url": "https://divyan154.github.io/weather-app/",
+          "domain": "divyan154.github.io",
+          "path": "/weather-app/",
+          "username": "divyan154.github",
+          "link_type": "website",
+          "platform": "personal_website"
+        },
+        {
+          "url": "https://yelp-camp-ttec.vercel.app/",
+          "domain": "yelp-camp-ttec.vercel.app",
+          "path": "/",
+          "username": "yelp-camp-ttec.vercel",
+          "link_type": "website",
+          "platform": "personal_website"
+        },
+        {
+          "url": "https://aiblog-app-taupe.vercel.app/#",
+          "domain": "aiblog-app-taupe.vercel.app",
+          "path": "/",
+          "username": "aiblog-app-taupe.vercel",
+          "link_type": "website",
+          "platform": "personal_website"
+        },
+        {
+          "url": "https://aiblog-app-taupe.vercel.app/#",
+          "domain": "aiblog-app-taupe.vercel.app",
+          "path": "/",
+          "username": "aiblog-app-taupe.vercel",
+          "link_type": "website",
+          "platform": "personal_website"
+        }
+      ],
+      "github": [
+        {
+          "url": "https://www.github.com/divyan154/",
+          "domain": "www.github.com",
+          "path": "/divyan154/",
+          "username": "divyan154",
+          "link_type": "repository",
+          "platform": "github"
+        },
+        {
+          "url": "https://github.com/divyan154/#start-of-content",
+          "domain": "github.com",
+          "path": "/divyan154/",
+          "username": "divyan154",
+          "link_type": "repository",
+          "platform": "github"
+        },
+        {
+          "url": "https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fdivyan154%2F",
+          "domain": "github.com",
+          "path": "/login",
+          "username": "login",
+          "link_type": "repository",
+          "platform": "github"
+        },
+        {
+          "url": "https://github.com/features/copilot",
+          "domain": "github.com",
+          "path": "/features/copilot",
+          "username": "features",
+          "link_type": "repository",
+          "platform": "github"
+        },
+        {
+          "url": "https://github.com/features/models",
+          "domain": "github.com",
+          "path": "/features/models",
+          "username": "features",
+          "link_type": "repository",
+          "platform": "github"
+        }
+      ],
+      "linkedin": [
+        {
+          "url": "https://www.linkedin.com/in/divyan154/",
+          "domain": "www.linkedin.com",
+          "path": "/in/divyan154/",
+          "username": "divyan154",
+          "link_type": "profile",
+          "platform": "linkedin"
+        },
+        {
+          "url": "https://www.linkedin.com/in/divyan154/",
+          "domain": "www.linkedin.com",
+          "path": "/in/divyan154/",
+          "username": "divyan154",
+          "link_type": "profile",
+          "platform": "linkedin"
+        }
+      ],
+      "other": [
+        {
+          "url": "https://github.com/",
+          "domain": "github.com",
+          "path": "/",
+          "username": null,
+          "link_type": "link",
+          "platform": "other"
+        },
+        {
+          "url": "https://github.blog/",
+          "domain": "github.blog",
+          "path": "/",
+          "username": null,
+          "link_type": "link",
+          "platform": "other"
+        },
+        {
+          "url": "https://twitter.com/Divyans57775024",
+          "domain": "twitter.com",
+          "path": "/Divyans57775024",
+          "username": null,
+          "link_type": "link",
+          "platform": "other"
+        },
+        {
+          "url": "https://github.com/",
+          "domain": "github.com",
+          "path": "/",
+          "username": null,
+          "link_type": "link",
+          "platform": "other"
+        },
+        {
+          "url": "ms-windows-store://pdp/?ProductId=9WZDNCRFJ4Q7&mode=mini&cid=guest_desktop_upsell_authwall2",
+          "domain": "pdp",
+          "path": "/",
+          "username": null,
+          "link_type": "link",
+          "platform": "other"
+        }
+      ]
+    }
+  },
+  "platforms": {
+    "personal_website": [
+      {
+        "platform": "personal_website",
+        "link_type": "website",
+        "url": "https://aiblog-app-taupe.vercel.app/",
+        "extraction_successful": false,
+        "error": "Unsupported platform"
+      },
+      {
+        "platform": "personal_website",
+        "link_type": "website",
+        "url": "https://divyan154.github.io/weather-app/",
+        "extraction_successful": false,
+        "error": "Unsupported platform"
+      },
+      {
+        "platform": "personal_website",
+        "link_type": "website",
+        "url": "https://yelp-camp-ttec.vercel.app/",
+        "extraction_successful": false,
+        "error": "Unsupported platform"
+      },
+      {
+        "platform": "personal_website",
+        "link_type": "website",
+        "url": "https://aiblog-app-taupe.vercel.app/#",
+        "extraction_successful": false,
+        "error": "Unsupported platform"
+      },
+      {
+        "platform": "personal_website",
+        "link_type": "website",
+        "url": "https://aiblog-app-taupe.vercel.app/#",
+        "extraction_successful": false,
+        "error": "Unsupported platform"
+      }
+    ],
+    "github": [
+      {
+        "schema_version": "1.0.0",
+        "platform": "github",
+        "link_type": "profile",
+        "url": "https://github.com/divyan154",
+        "username": "divyan154",
+        "extraction_date": "2025-06-17T10:13:33.184479",
+        "extraction_successful": true,
+        "basic_info": {
+          "name": "Divyansh sharma ",
+          "bio": "\r\nIIT (ISM) DHANBAD  Mech '24",
+          "location": "Kota, Rajasthan, India",
+          "company": null,
+          "website": "https://www.linkedin.com/in/divyan154/",
+          "email": null,
+          "account_created": "2021-09-27T18:45:21Z",
+          "account_age_days": 1358
+        },
+        "engagement_metrics": {
+          "followers": 3,
+          "following": 10,
+          "total_repositories": 23,
+          "total_stars": 0,
+          "total_forks": 0,
+          "total_watchers": 0,
+          "recent_activity_count": 29
+        },
+        "skill_indicators": {
+          "languages": {
+            "JavaScript": 7,
+            "TypeScript": 7,
+            "Jupyter Notebook": 3,
+            "Java": 2,
+            "HTML": 2
+          },
+          "top_language": "JavaScript",
+          "activity_types": {
+            "PushEvent": 25,
+            "CreateEvent": 4
+          },
+          "most_active_contribution_type": "PushEvent"
+        },
+        "credibility_signals": {
+          "account_age_days": 1358,
+          "has_bio": true,
+          "has_company": false,
+          "has_location": true,
+          "has_website": true,
+          "has_email": false,
+          "original_repos_ratio": 0.87
+        }
+      },
+      {
+        "schema_version": "1.0.0",
+        "platform": "github",
+        "link_type": "profile",
+        "url": "https://github.com/divyan154",
+        "username": "divyan154",
+        "extraction_date": "2025-06-17T10:13:34.605364",
+        "extraction_successful": true,
+        "basic_info": {
+          "name": "Divyansh sharma ",
+          "bio": "\r\nIIT (ISM) DHANBAD  Mech '24",
+          "location": "Kota, Rajasthan, India",
+          "company": null,
+          "website": "https://www.linkedin.com/in/divyan154/",
+          "email": null,
+          "account_created": "2021-09-27T18:45:21Z",
+          "account_age_days": 1358
+        },
+        "engagement_metrics": {
+          "followers": 3,
+          "following": 10,
+          "total_repositories": 23,
+          "total_stars": 0,
+          "total_forks": 0,
+          "total_watchers": 0,
+          "recent_activity_count": 29
+        },
+        "skill_indicators": {
+          "languages": {
+            "JavaScript": 7,
+            "TypeScript": 7,
+            "Jupyter Notebook": 3,
+            "Java": 2,
+            "HTML": 2
+          },
+          "top_language": "JavaScript",
+          "activity_types": {
+            "PushEvent": 25,
+            "CreateEvent": 4
+          },
+          "most_active_contribution_type": "PushEvent"
+        },
+        "credibility_signals": {
+          "account_age_days": 1358,
+          "has_bio": true,
+          "has_company": false,
+          "has_location": true,
+          "has_website": true,
+          "has_email": false,
+          "original_repos_ratio": 0.87
+        }
+      },
+      {
+        "schema_version": "1.0.0",
+        "platform": "github",
+        "link_type": "unknown",
+        "url": "https://github.com/login",
+        "username": null,
+        "extraction_date": "2025-06-17T10:13:34.457093",
+        "extraction_successful": false,
+        "raw_data": {
+          "platform": "github",
+          "link_type": "unknown",
+          "url": "https://github.com/login",
+          "username": null,
+          "extraction_successful": false,
+          "error": "Could not extract data"
+        }
+      },
+      {
+        "schema_version": "1.0.0",
+        "platform": "github",
+        "link_type": "unknown",
+        "url": "https://github.com/features/copilot",
+        "username": null,
+        "extraction_date": "2025-06-17T10:13:35.733157",
+        "extraction_successful": false,
+        "raw_data": {
+          "platform": "github",
+          "link_type": "unknown",
+          "url": "https://github.com/features/copilot",
+          "username": null,
+          "extraction_successful": false,
+          "error": "Could not extract data"
+        }
+      },
+      {
+        "schema_version": "1.0.0",
+        "platform": "github",
+        "link_type": "unknown",
+        "url": "https://github.com/features/models",
+        "username": null,
+        "extraction_date": "2025-06-17T10:13:36.514305",
+        "extraction_successful": false,
+        "raw_data": {
+          "platform": "github",
+          "link_type": "unknown",
+          "url": "https://github.com/features/models",
+          "username": null,
+          "extraction_successful": false,
+          "error": "Could not extract data"
+        }
+      }
+    ],
+    "linkedin": [
+      {
+        "schema_version": "1.0.0",
+        "platform": "linkedin",
+        "link_type": "profile",
+        "url": "https://www.linkedin.com/in/divyan154/",
+        "username": null,
+        "extraction_date": "2025-06-17T10:13:35.862786",
+        "extraction_successful": false,
+        "basic_info": {
+          "name": null,
+          "headline": null,
+          "location": null,
+          "about": null
+        },
+        "engagement_metrics": {
+          "connections": 0,
+          "experience_count": 0,
+          "education_count": 0,
+          "skills_count": 0
+        },
+        "skill_indicators": {
+          "skills": [],
+          "experience": [],
+          "education": [],
+          "total_experience_months": 0
+        },
+        "credibility_signals": {
+          "has_photo": true,
+          "has_about": false,
+          "has_experience": false,
+          "has_education": false,
+          "has_skills": false,
+          "connection_level": false
+        }
+      },
+      {
+        "schema_version": "1.0.0",
+        "platform": "linkedin",
+        "link_type": "profile",
+        "url": "https://www.linkedin.com/in/divyan154/",
+        "username": null,
+        "extraction_date": "2025-06-17T10:13:35.862786",
+        "extraction_successful": false,
+        "basic_info": {
+          "name": null,
+          "headline": null,
+          "location": null,
+          "about": null
+        },
+        "engagement_metrics": {
+          "connections": 0,
+          "experience_count": 0,
+          "education_count": 0,
+          "skills_count": 0
+        },
+        "skill_indicators": {
+          "skills": [],
+          "experience": [],
+          "education": [],
+          "total_experience_months": 0
+        },
+        "credibility_signals": {
+          "has_photo": true,
+          "has_about": false,
+          "has_experience": false,
+          "has_education": false,
+          "has_skills": false,
+          "connection_level": false
+        }
+      }
+    ],
+    "other": [
+      {
+        "platform": "other",
+        "link_type": "link",
+        "url": "https://github.com/",
+        "extraction_successful": false,
+        "error": "Unsupported platform"
+      },
+      {
+        "platform": "other",
+        "link_type": "link",
+        "url": "https://github.blog/",
+        "extraction_successful": false,
+        "error": "Unsupported platform"
+      },
+      {
+        "platform": "other",
+        "link_type": "link",
+        "url": "https://twitter.com/Divyans57775024",
+        "extraction_successful": false,
+        "error": "Unsupported platform"
+      },
+      {
+        "platform": "other",
+        "link_type": "link",
+        "url": "https://github.com/",
+        "extraction_successful": false,
+        "error": "Unsupported platform"
+      },
+      {
+        "platform": "other",
+        "link_type": "link",
+        "url": "ms-windows-store://pdp/?ProductId=9WZDNCRFJ4Q7&mode=mini&cid=guest_desktop_upsell_authwall2",
+        "extraction_successful": false,
+        "error": "Unsupported platform"
+      }
+    ]
+  },
+  "summary": {
+    "total_platforms": 4,
+    "total_links": 17,
+    "platforms_found": [
+      "personal_website",
+      "github",
+      "linkedin",
+      "other"
+    ],
+    "extraction_success_rate": 0.12,
+    "platform_counts": {
+      "personal_website": 5,
+      "github": 5,
+      "linkedin": 2,
+      "other": 5
+    },
+    "skill_indicators": {
+      "github": {
+        "languages": {
+          "JavaScript": 7,
+          "TypeScript": 7,
+          "Jupyter Notebook": 3,
+          "Java": 2,
+          "HTML": 2
+        },
+        "top_language": "JavaScript",
+        "repositories": 23
+      }
+    },
+    "credibility_score": 60
+  }
+}

@@ -1,0 +1,394 @@
+{
+  "overall_score": 54.23,
+  "grade": "D",
+  "max_score": 100,
+  "analysis_timestamp": "2025-06-26T00:14:37.274738",
+  "component_scores": {
+    "skill_alignment": 79.28813725709915,
+    "project_validation": 27.467137775679472,
+    "formatting": 40.70218767438617,
+    "trustworthiness": 93.78378378378379,
+    "credibility": 27.5,
+    "online_presence": 60
+  },
+  "score_breakdown": {
+    "skill_alignment": {
+      "raw_score": 79.29,
+      "weight": 0.3,
+      "weighted_contribution": 23.79,
+      "percentage_of_total": 30.0,
+      "display_name": "Skill Alignment"
+    },
+    "project_validation": {
+      "raw_score": 27.47,
+      "weight": 0.3,
+      "weighted_contribution": 8.24,
+      "percentage_of_total": 30.0,
+      "display_name": "Project Validation"
+    },
+    "formatting": {
+      "raw_score": 40.7,
+      "weight": 0.1,
+      "weighted_contribution": 4.07,
+      "percentage_of_total": 10.0,
+      "display_name": "Resume Formatting"
+    },
+    "trustworthiness": {
+      "raw_score": 93.78,
+      "weight": 0.1,
+      "weighted_contribution": 9.38,
+      "percentage_of_total": 10.0,
+      "display_name": "Content Trustworthiness"
+    },
+    "credibility": {
+      "raw_score": 27.5,
+      "weight": 0.1,
+      "weighted_contribution": 2.75,
+      "percentage_of_total": 10.0,
+      "display_name": "Credential Verification"
+    },
+    "online_presence": {
+      "raw_score": 60,
+      "weight": 0.1,
+      "weighted_contribution": 6.0,
+      "percentage_of_total": 10.0,
+      "display_name": "Online Presence"
+    }
+  },
+  "issues_summary": {
+    "total_issues": 35,
+    "by_severity": {
+      "high": 0,
+      "medium": 24,
+      "low": 11
+    },
+    "by_component": {
+      "skill_alignment": 22,
+      "project_validation": 2,
+      "formatting": 7,
+      "credibility": 4
+    },
+    "critical_issues": [],
+    "status": "needs_improvement"
+  },
+  "detailed_issues": [
+    {
+      "type": "missing_skill",
+      "severity": "medium",
+      "component": "skill_alignment",
+      "message": "Missing skill: Location: Remote | Employment Type: Full-Time",
+      "recommendation": "Consider adding experience or projects demonstrating Location: Remote | Employment Type: Full-Time"
+    },
+    {
+      "type": "missing_skill",
+      "severity": "medium",
+      "component": "skill_alignment",
+      "message": "Missing skill: About Preva",
+      "recommendation": "Consider adding experience or projects demonstrating About Preva"
+    },
+    {
+      "type": "missing_skill",
+      "severity": "medium",
+      "component": "skill_alignment",
+      "message": "Missing skill: Preva Care is on a mission to revolutionize preventive healthcare by making it proactive, personalized, and accessible. Our digital health ecosystem empowers individuals with regular preventive check-ups, wellness insights, and actionable health recommendations. For businesses, we offer comprehensive B2B corporate health programs designed to enhance employee well-being and productivity through customized health plans backed by data-driven insights.",
+      "recommendation": "Consider adding experience or projects demonstrating Preva Care is on a mission to revolutionize preventive healthcare by making it proactive, personalized, and accessible. Our digital health ecosystem empowers individuals with regular preventive check-ups, wellness insights, and actionable health recommendations. For businesses, we offer comprehensive B2B corporate health programs designed to enhance employee well-being and productivity through customized health plans backed by data-driven insights."
+    },
+    {
+      "type": "missing_skill",
+      "severity": "medium",
+      "component": "skill_alignment",
+      "message": "Missing skill: Why Join Us",
+      "recommendation": "Consider adding experience or projects demonstrating Why Join Us"
+    },
+    {
+      "type": "missing_skill",
+      "severity": "medium",
+      "component": "skill_alignment",
+      "message": "Missing skill: Opportunity to work on advanced AI-driven healthcare solutions",
+      "recommendation": "Consider adding experience or projects demonstrating Opportunity to work on advanced AI-driven healthcare solutions"
+    },
+    {
+      "type": "missing_skill",
+      "severity": "medium",
+      "component": "skill_alignment",
+      "message": "Missing skill: Collaborative environment with a highly skilled in-house development team",
+      "recommendation": "Consider adding experience or projects demonstrating Collaborative environment with a highly skilled in-house development team"
+    },
+    {
+      "type": "missing_skill",
+      "severity": "medium",
+      "component": "skill_alignment",
+      "message": "Missing skill: Fast-paced learning with real-time mentorship and hands-on exposure",
+      "recommendation": "Consider adding experience or projects demonstrating Fast-paced learning with real-time mentorship and hands-on exposure"
+    },
+    {
+      "type": "missing_skill",
+      "severity": "medium",
+      "component": "skill_alignment",
+      "message": "Missing skill: Quarterly performance-based appraisals and recognition for outstanding contributions",
+      "recommendation": "Consider adding experience or projects demonstrating Quarterly performance-based appraisals and recognition for outstanding contributions"
+    },
+    {
+      "type": "missing_skill",
+      "severity": "medium",
+      "component": "skill_alignment",
+      "message": "Missing skill: Work remotely with flexible structure while contributing to meaningful innovation in health-tech",
+      "recommendation": "Consider adding experience or projects demonstrating Work remotely with flexible structure while contributing to meaningful innovation in health-tech"
+    },
+    {
+      "type": "missing_skill",
+      "severity": "medium",
+      "component": "skill_alignment",
+      "message": "Missing skill: Role Overview",
+      "recommendation": "Consider adding experience or projects demonstrating Role Overview"
+    },
+    {
+      "type": "missing_skill",
+      "severity": "medium",
+      "component": "skill_alignment",
+      "message": "Missing skill: Build and refine user interfaces with a strong focus on responsiveness and user experience",
+      "recommendation": "Consider adding experience or projects demonstrating Build and refine user interfaces with a strong focus on responsiveness and user experience"
+    },
+    {
+      "type": "missing_skill",
+      "severity": "medium",
+      "component": "skill_alignment",
+      "message": "Missing skill: Identify and troubleshoot issues, ensuring performance, security, and scalability",
+      "recommendation": "Consider adding experience or projects demonstrating Identify and troubleshoot issues, ensuring performance, security, and scalability"
+    },
+    {
+      "type": "missing_skill",
+      "severity": "medium",
+      "component": "skill_alignment",
+      "message": "Missing skill: Participate in code reviews, architecture discussions, and agile development cycles",
+      "recommendation": "Consider adding experience or projects demonstrating Participate in code reviews, architecture discussions, and agile development cycles"
+    },
+    {
+      "type": "missing_skill",
+      "severity": "medium",
+      "component": "skill_alignment",
+      "message": "Missing skill: Preferred Candidate Profile",
+      "recommendation": "Consider adding experience or projects demonstrating Preferred Candidate Profile"
+    },
+    {
+      "type": "missing_skill",
+      "severity": "medium",
+      "component": "skill_alignment",
+      "message": "Missing skill: Clear communication skills and ability to collaborate in a remote team environment",
+      "recommendation": "Consider adding experience or projects demonstrating Clear communication skills and ability to collaborate in a remote team environment"
+    },
+    {
+      "type": "missing_skill",
+      "severity": "medium",
+      "component": "skill_alignment",
+      "message": "Missing skill: Quick learner with a proactive mindset and the ability to adapt to evolving requirements",
+      "recommendation": "Consider adding experience or projects demonstrating Quick learner with a proactive mindset and the ability to adapt to evolving requirements"
+    },
+    {
+      "type": "missing_skill",
+      "severity": "medium",
+      "component": "skill_alignment",
+      "message": "Missing skill: Additional Details",
+      "recommendation": "Consider adding experience or projects demonstrating Additional Details"
+    },
+    {
+      "type": "missing_skill",
+      "severity": "medium",
+      "component": "skill_alignment",
+      "message": "Missing skill: Immediate joiners are preferred",
+      "recommendation": "Consider adding experience or projects demonstrating Immediate joiners are preferred"
+    },
+    {
+      "type": "missing_skill",
+      "severity": "medium",
+      "component": "skill_alignment",
+      "message": "Missing skill: Competitive compensation structure",
+      "recommendation": "Consider adding experience or projects demonstrating Competitive compensation structure"
+    },
+    {
+      "type": "missing_skill",
+      "severity": "medium",
+      "component": "skill_alignment",
+      "message": "Missing skill: Appraisals conducted every quarter for exceptional performance",
+      "recommendation": "Consider adding experience or projects demonstrating Appraisals conducted every quarter for exceptional performance"
+    },
+    {
+      "type": "missing_skill",
+      "severity": "medium",
+      "component": "skill_alignment",
+      "message": "Missing skill: A chance to work on impactful technology in the healthcare space",
+      "recommendation": "Consider adding experience or projects demonstrating A chance to work on impactful technology in the healthcare space"
+    },
+    {
+      "type": "missing_skill",
+      "severity": "medium",
+      "component": "skill_alignment",
+      "message": "Missing skill: How to Apply",
+      "recommendation": "Consider adding experience or projects demonstrating How to Apply"
+    },
+    {
+      "type": "project_issue",
+      "severity": "medium",
+      "component": "project_validation",
+      "message": "Project issue: • Optimized image storage with AWS S3, reducing load times by 1.5 seconds and improving upload efficiency by 50% (Unrelated to claimed skills)",
+      "recommendation": "Improve project description with specific technologies and quantifiable results"
+    },
+    {
+      "type": "project_issue",
+      "severity": "medium",
+      "component": "project_validation",
+      "message": "Project issue: • Built a blog creation platform using Gemini API, allowing users to generate, edit, and save content efficiently, (Unrelated to claimed skills)",
+      "recommendation": "Improve project description with specific technologies and quantifiable results"
+    },
+    {
+      "type": "formatting_issue",
+      "severity": "low",
+      "component": "formatting",
+      "message": "Reduce font variety - use maximum 2-3 different fonts",
+      "recommendation": "Reduce font variety - use maximum 2-3 different fonts"
+    },
+    {
+      "type": "formatting_issue",
+      "severity": "low",
+      "component": "formatting",
+      "message": "Maintain consistent font sizes for similar content types",
+      "recommendation": "Maintain consistent font sizes for similar content types"
+    },
+    {
+      "type": "formatting_issue",
+      "severity": "low",
+      "component": "formatting",
+      "message": "Ensure consistent margins throughout the document",
+      "recommendation": "Ensure consistent margins throughout the document"
+    },
+    {
+      "type": "formatting_issue",
+      "severity": "low",
+      "component": "formatting",
+      "message": "Maintain adequate white space (at least 0.5 inch margins)",
+      "recommendation": "Maintain adequate white space (at least 0.5 inch margins)"
+    },
+    {
+      "type": "formatting_issue",
+      "severity": "low",
+      "component": "formatting",
+      "message": "Break up large blocks of text into smaller paragraphs",
+      "recommendation": "Break up large blocks of text into smaller paragraphs"
+    },
+    {
+      "type": "formatting_issue",
+      "severity": "low",
+      "component": "formatting",
+      "message": "Keep lines under 100 characters for better readability",
+      "recommendation": "Keep lines under 100 characters for better readability"
+    },
+    {
+      "type": "formatting_issue",
+      "severity": "low",
+      "component": "formatting",
+      "message": "Use white space effectively to improve visual appeal",
+      "recommendation": "Use white space effectively to improve visual appeal"
+    },
+    {
+      "type": "credibility_issue",
+      "severity": "low",
+      "component": "credibility",
+      "message": "Include certification IDs and dates to improve verifiability",
+      "recommendation": "Include certification IDs and dates to improve verifiability"
+    },
+    {
+      "type": "credibility_issue",
+      "severity": "low",
+      "component": "credibility",
+      "message": "Ensure certification names match official provider terminology",
+      "recommendation": "Ensure certification names match official provider terminology"
+    },
+    {
+      "type": "credibility_issue",
+      "severity": "low",
+      "component": "credibility",
+      "message": "Ensure consistency between resume and online profiles",
+      "recommendation": "Ensure consistency between resume and online profiles"
+    },
+    {
+      "type": "credibility_issue",
+      "severity": "low",
+      "component": "credibility",
+      "message": "Update social profiles to reflect current skills and certifications",
+      "recommendation": "Update social profiles to reflect current skills and certifications"
+    }
+  ],
+  "recommendations": {
+    "immediate_actions": [
+      "No specific recommendations - maintain current standards"
+    ],
+    "skill_development": [
+      "Develop proficiency in About Preva",
+      "Develop proficiency in Opportunity to work on advanced AI-driven healthcare solutions",
+      "Develop proficiency in Why Join Us",
+      "Develop proficiency in Preva Care is on a mission to revolutionize preventive healthcare by making it proactive, personalized, and accessible. Our digital health ecosystem empowers individuals with regular preventive check-ups, wellness insights, and actionable health recommendations. For businesses, we offer comprehensive B2B corporate health programs designed to enhance employee well-being and productivity through customized health plans backed by data-driven insights.",
+      "Develop proficiency in Location: Remote | Employment Type: Full-Time"
+    ],
+    "content_improvement": [
+      "Include specific technologies and methodologies used",
+      "Highlight problem-solving approaches and outcomes",
+      "Add quantifiable results to project descriptions"
+    ],
+    "presentation_enhancement": [
+      "Use professional fonts and appropriate spacing",
+      "Ensure consistent bullet point usage",
+      "Improve resume formatting and visual consistency"
+    ],
+    "credibility_building": [
+      "Ensure consistency across all professional platforms",
+      "Include links to professional profiles (LinkedIn, GitHub)",
+      "Add professional certifications with verification details"
+    ]
+  },
+  "strengths": [
+    "Strong Skill Alignment (Score: 79.3/100)",
+    "Excellent Trustworthiness (Score: 93.8/100)"
+  ],
+  "improvement_areas": [
+    "Unknown issue",
+    "Unknown issue",
+    "Unknown issue"
+  ],
+  "metadata": {
+    "resume_file": "FSD_resume.pdf",
+    "job_description_file": "FSD_JD.txt",
+    "analysis_version": "1.0",
+    "link_extraction": {
+      "total_platforms": 4,
+      "total_links": 17,
+      "platforms_found": [
+        "personal_website",
+        "github",
+        "linkedin",
+        "other"
+      ],
+      "extraction_success_rate": 0.12,
+      "platform_counts": {
+        "personal_website": 5,
+        "github": 5,
+        "linkedin": 2,
+        "other": 5
+      },
+      "skill_indicators": {
+        "github": {
+          "languages": {
+            "JavaScript": 7,
+            "TypeScript": 7,
+            "Jupyter Notebook": 3,
+            "Java": 2,
+            "HTML": 2
+          },
+          "top_language": "JavaScript",
+          "repositories": 23
+        }
+      },
+      "credibility_score": 60
+    },
+    "online_presence_score": 60
+  }
+}

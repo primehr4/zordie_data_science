@@ -1,0 +1,98 @@
+{
+  "total_score": 8.140437534877233,
+  "max_score": 20,
+  "detailed_scores": {
+    "font_consistency": 0,
+    "bullet_consistency": 0.8333333333333333,
+    "margin_consistency": 0.6499871148003472,
+    "text_density": 0,
+    "section_lengths": 0.7142857142857143
+  },
+  "analysis_details": {
+    "fonts": {
+      "unique_fonts": 11,
+      "font_distribution": {
+        "CMCSC10": 1,
+        "FontAwesome5Free-Solid": 2,
+        "CMR10": 75,
+        "FontAwesome5Brands-Regul": 4,
+        "CMBX12": 7,
+        "CMBX10": 58,
+        "CMTI10": 6,
+        "CMBXTI10": 3,
+        "CMSY6": 19,
+        "CMSY10": 6,
+        "SFRM1000": 1
+      },
+      "unique_sizes": 5,
+      "size_distribution": {
+        "25": 1,
+        "10": 153,
+        "12": 7,
+        "11": 2,
+        "6": 19
+      },
+      "most_common_font": [
+        "CMR10",
+        75
+      ],
+      "most_common_size": [
+        10,
+        153
+      ]
+    },
+    "bullets": {
+      "bullet_lines": 19,
+      "total_lines": 57,
+      "bullet_usage_ratio": 0.3333333333333333,
+      "unique_bullet_types": 1,
+      "bullet_distribution": {
+        "•": 19
+      },
+      "most_common_bullet": [
+        "•",
+        19
+      ]
+    },
+    "margins": {
+      "left_margin_consistency": 5,
+      "right_margin_consistency": 28,
+      "avg_left_margin": 44.58925409028024,
+      "avg_right_margin": 173.03383335922703,
+      "min_margin": 28.799072265625
+    },
+    "text_density": {
+      "long_lines": 22,
+      "total_lines": 56,
+      "long_line_ratio": 0.39285714285714285,
+      "avg_paragraph_length": 548.0,
+      "max_paragraph_length": 548,
+      "wall_of_text_count": 1
+    },
+    "sections": {
+      "section_lengths": {
+        "Education": 4,
+        "Work Experience": 6,
+        "Projects": 24,
+        "Awards": 4,
+        "Skills": 4,
+        "Certifications": 2,
+        "Interests": 9
+      },
+      "avg_section_length": 7.571428571428571,
+      "min_section_length": 2,
+      "max_section_length": 24,
+      "sections_too_short": 0,
+      "sections_too_long": 2
+    }
+  },
+  "recommendations": [
+    "Reduce font variety - use maximum 2-3 different fonts",
+    "Maintain consistent font sizes for similar content types",
+    "Ensure consistent margins throughout the document",
+    "Maintain adequate white space (at least 0.5 inch margins)",
+    "Break up large blocks of text into smaller paragraphs",
+    "Keep lines under 100 characters for better readability",
+    "Use white space effectively to improve visual appeal"
+  ]
+}

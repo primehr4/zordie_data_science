@@ -1,0 +1,48 @@
+Full Stack Developer (1–2 Years Experience) – AI-Focused Healthcare Platform | Immediate Joiners Preferred
+Location: Remote | Employment Type: Full-Time
+
+About Preva
+Preva Care is on a mission to revolutionize preventive healthcare by making it proactive, personalized, and accessible. Our digital health ecosystem empowers individuals with regular preventive check-ups, wellness insights, and actionable health recommendations. For businesses, we offer comprehensive B2B corporate health programs designed to enhance employee well-being and productivity through customized health plans backed by data-driven insights.
+
+
+
+Why Join Us
+Opportunity to work on advanced AI-driven healthcare solutions
+Collaborative environment with a highly skilled in-house development team
+Fast-paced learning with real-time mentorship and hands-on exposure
+Quarterly performance-based appraisals and recognition for outstanding contributions
+Work remotely with flexible structure while contributing to meaningful innovation in health-tech
+
+
+Role Overview
+We are seeking a skilled and motivated Full Stack Developer with 1 to 2 years of professional experience. The selected candidate will play a key role in developing and enhancing our platform, working on both the front-end and back-end, with opportunities to contribute to innovative AI features within our healthcare ecosystem.
+
+
+
+Responsibilities
+Develop, maintain, and scale applications using Node.js, Express.js, MongoDB, and React.js
+Build and refine user interfaces with a strong focus on responsiveness and user experience
+Collaborate with the development team to implement AI-integrated features
+Identify and troubleshoot issues, ensuring performance, security, and scalability
+Participate in code reviews, architecture discussions, and agile development cycles
+
+
+Preferred Candidate Profile
+1 to 2 years of experience in full-stack web development
+Proficient in Node.js, Express.js, MongoDB, and React.js
+Strong front-end development skills including HTML, CSS, and JavaScript
+Solid problem-solving abilities with a logical and analytical approach
+Clear communication skills and ability to collaborate in a remote team environment
+Bachelor’s degree in Computer Science, Engineering, or a related field
+Quick learner with a proactive mindset and the ability to adapt to evolving requirements
+
+
+Additional Details
+Immediate joiners are preferred
+Competitive compensation structure
+Appraisals conducted every quarter for exceptional performance
+A chance to work on impactful technology in the healthcare space
+
+
+How to Apply
+Interested candidates should apply directly through LinkedIn with their latest CV.

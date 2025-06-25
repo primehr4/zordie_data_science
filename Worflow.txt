@@ -1,0 +1,48 @@
+Designed an end-to-end pipeline for a Resume Intelligence System, ensuring the proper functioning of all components.
+
+The system perform a 4-step analysis process:
+
+Step-1: Initial Screening
+1.1 Document Parsing
+1.2 Section Detection
+1.3 Project Validation
+1.4 Skill Alignment
+    Calculate a (0–100) “overall alignment score” based on the following criteria:
+     (i) Projects: score between (0-30)  
+     (ii) Work Experience: score between (0-30)  
+     (iii) Skills: score between (0-20)  
+     (iv) Education: score between (0–10)  
+     (v) Certifications: score between (0–5)  
+     (vi) Summary: score between (0–5)
+
+1.5 Visualization : Generate visual representations of the analysis (i.e. overall alignment score)
+
+Analyze how well the candidate's skills align with the job description. If the candidate's skills do not meet the job description (threshold = 65), the candidate will be rejected.
+
+Step-2: In-Depth Analysis
+If the candidate surpasses the threshold value, their resume will proceed for further in-depth analysis.
+
+Cross-Component Integration : Better integration between components could provide more comprehensive insights, such as leveraging GitHub activity data from the Link Crawler to enhance the analysis performed by the Trustworthiness Detector, as well as utilizing data from the Link Crawler to refine the analysis of the Credibility Engine.
+
+2.1 Formatting Analysis
+2.2 Link Analysis
+2.3 Trustworthiness Analysis
+2.4 Credibility Verification
+
+Step-3: Calculating Overall Quality Score
+1. Based on the in-depth analysis (Formatting Analysis, Trustworthiness Analysis, Credibility Verification, Link Analysis), calculate the candidate's overall quality score.
+   Calculate a (0–100) “overall score” based on the following criteria:
+   Component Breakdown:
+    (i) Skill Alignment (30.0% weight)
+    (ii) Project Validation (30.0% weight)
+    (iii) Resume Formatting (10.0% weight)
+    (iv) Content Trustworthiness (10.0% weight)
+    (v) Credential Verification (10.0% weight)
+    (vi) Online Presence (10.0% weight)
+
+2. Visualization : Generate visual representations of the analysis (i.e. Overall Quality Score).
+
+Step-4: Generating Comprehensive Report
+Report Generation : Creating a comprehensive analysis report enables HR teams to streamline résumé screening, identify top candidates more efficiently, and provide constructive feedback to applicants.
+
+This end-to-end pipeline enables HR teams to scale résumé screening, surface top candidates faster, and provide constructive feedback to applicants.
